@@ -6,6 +6,11 @@
 }
 
 body {
+    background-image: url('bgimg.png');
+    background-size: cover; 
+    background-position: center;
+    height: 100vh;
+    color: white;
     font-size: 1.3rem;
     font-weight: normal;
     line-height: 1.7em;
